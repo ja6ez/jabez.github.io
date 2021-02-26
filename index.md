@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/ja6ez/jabez.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey you, I am Jabez from India. I don't like share too much about my personal front in the digital platform to avoid sniff attacks and data identity loss.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Don't worry. if you want to know more about me, I have another profile page where you can read about my technical experiences :)
+
+To visit my another profile, try this [link](https://jabez-azariah.mystrikingly.com/)
 
 ### Markdown
 
@@ -28,10 +30,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ja6ez/jabez.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Reach me from my resume profile page.
