@@ -6,29 +6,39 @@ Don't worry. if you want to know more about me, I have another profile page wher
 
 To visit my another profile, try this [link](https://jabez-azariah.mystrikingly.com/)
 
-### Markdown
+## Hobbies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I love watching Formula 1 Car racing
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+I was sponsored a trip to Korean Grand Prix in the year 2011 with the McLaren Mobil Formula 1 Team.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Speciality
+I love keeping animals
+- dogs
+- chickens
+- rabbits
+- cockatiel
+- budgies
+- hamster
+
+I built a chicken coop on my own
+1. that's definitely true
+2. but it took me 3 months (i worked only on weekends on the coop)
+> ideally 5 weekends not more than that i worked.
+
+## International community
+### Traveling
+1. Singapore
+2. Dubai
+3. Abu Dhabi
+4. USA
+5. Hong Kong
+6. Amsterdam
+7. Korea
+
+are some placed i visited.
 
 ### Support or Contact
 
